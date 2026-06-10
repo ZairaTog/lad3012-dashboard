@@ -33,9 +33,9 @@ TU_ID     = "183800"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = "Descubrí que el margen global es de tan solo 3.1%, muy por debajo del benchmark de 12%, lo que limita la rentabilidad pese a ventas de $1,776,494.  
-Recomiendo revisar los descuentos en Furniture y ajustar precios para elevar el margen al menos a 6% en el próximo año.
-"
+TU_INSIGHT = """Descubrí que la subcategoría Tables concentra pérdidas de -11,025 en la región Este, mientras que en el Oeste genera +1,482.  
+Recomiendo revisar estrategias de venta en la región Este para reducir las pérdidas y mejorar el margen global."""  
+
 Aun no he escrito mi insight. Lo agregare despues de explorar
 los graficos y filtros de mi dashboard.
 """
