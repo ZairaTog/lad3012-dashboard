@@ -33,7 +33,9 @@ TU_ID     = "183800"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = """
+TU_INSIGHT = """Descubrí que la orden CA-2018-1069 en Tecnología (South) generó $7,840 en ventas con $1,724 de ganancia, mientras que Furniture en East tuvo ventas similares pero apenas $363 de profit.  
+Recomiendo revisar costos y descuentos en Furniture para que órdenes grandes de esa categoría logren al menos $1,000 de ganancia en futuras ventas.
+
 Aun no he escrito mi insight. Lo agregare despues de explorar
 los graficos y filtros de mi dashboard.
 """
